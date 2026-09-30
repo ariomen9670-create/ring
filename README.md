@@ -8,7 +8,7 @@ It also helps administrators manage waste-related complaints and pickup requests
 
 ## 🎯 Problem
 
-Waste-related problems like overflowing bins, garbage on roads, missed collection, and improper disposal are common.
+Waste problems like overflowing bins, garbage on roads, missed collection, and improper disposal are common.
 
 SmartWaste provides a simple digital platform to report and manage these problems.
 
@@ -40,5 +40,4 @@ SmartWaste/
 ├── index.html
 ├── style.css
 ├── script.js
-├── screenshot.png
 └── README.md
